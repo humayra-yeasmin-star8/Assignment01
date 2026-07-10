@@ -1,0 +1,44 @@
+.speaker{
+    max-width: 1200px;
+    margin: 60px auto;
+    padding:0 40px;
+    font-family: "Inter",sans-serif;
+
+}
+.h1line{
+    margin-bottom: 45px;
+    font-size: 48px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:35px;
+    justify-content: center;
+}
+.stimg{
+    width:100%;
+    height: 320px;
+    overflow: hidden;
+
+}
+.card{
+    background-color: #FFFFFF;
+    border: 1px solid #E5E7EB;
+    border-radius: 11px;
+    overflow: hidden;
+}
+.type{
+    color:#2563EB ;
+    font-weight: 600;
+    line-height: 1.6;
+    font-size: 15px;
+}
+.sp h3{
+    font-size: 25px;
+    line-height: 1.6;
+    font-weight:1500;
+}
+.sp p{
+    font-weight: 400;
+    color:#575757
+}
