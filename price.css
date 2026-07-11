@@ -50,21 +50,19 @@
 .button-price{
     display: block;
     margin: 20px auto;
-    margin-top: 25px;
     background-color: white;
-    padding: 15px 90px;
+    padding: 15px 80px;
     border: 2px solid #1d4ed8;
     border-radius: 10px;
     font-size: 20px;
     font-weight: 700;
     color: #2563eb;
     cursor: pointer;
-    overflow: hidden;
+    
 }
 .button-price-con{
     display: block;
     margin: 20px auto;
-    margin-top: 25px;
     background-color: white;
     padding: 15px 80px;
     border: 2px solid #0D1B2A;
@@ -73,8 +71,6 @@
     font-weight: 700;
     color: #2563eb;
     cursor: pointer;
-    overflow: hidden;
-    object-fit: cover;
 
 }
 .special-card{
@@ -100,9 +96,8 @@
 .button-price-dark{
     display: block;
     margin: 2px auto;
-    margin-top: 23px;
     background-color: #2563eb;
-    padding: 18px 80px;
+    padding: 15px 80px;
     border: 2px solid #0D1B2A;
     border-radius: 10px;
     font-size: 20px;
@@ -111,4 +106,3 @@
     cursor: pointer;
 
 }
-
