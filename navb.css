@@ -38,6 +38,7 @@ nav a:hover{
     color:aliceblue;
     align-items: center;
     cursor:pointer;
+    overflow: hidden;
 }
 .hero{
     position: relative;
