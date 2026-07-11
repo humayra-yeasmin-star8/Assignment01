@@ -97,12 +97,13 @@
     display: block;
     margin: 2px auto;
     background-color: #2563eb;
-    padding: 15px 80px;
+    padding: 15px 90px;
     border: 2px solid #0D1B2A;
     border-radius: 10px;
     font-size: 20px;
     font-weight: 700;
     color:#ffffff;
     cursor: pointer;
+    margin-top:70px;
 
 }
