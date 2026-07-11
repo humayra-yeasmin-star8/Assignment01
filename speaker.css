@@ -21,6 +21,12 @@
     overflow: hidden;
 
 }
+.stimg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: right center;
+}
 .card{
     background-color: #FFFFFF;
     border: 1px solid #E5E7EB;

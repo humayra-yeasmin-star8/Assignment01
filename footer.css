@@ -1,0 +1,24 @@
+.foot{
+    background-color: #0b192c; 
+    padding: 20px 0;
+    width: 100%;
+}
+.container{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 30px; 
+}
+.links{
+    display:flex;
+    gap:20px;
+}
+.links a{
+    text-decoration: none;
+    color: #64748b;
+}
+.links a:hover{
+    color: #2563eb; /* Optional: blue on hover */
+}
