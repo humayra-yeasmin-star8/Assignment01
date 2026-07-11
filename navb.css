@@ -10,6 +10,10 @@ header{
     justify-content: space-between;
     align-items: center;
     padding:30px 80px;
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 1000;
 
 }
 .logo-devconf{
