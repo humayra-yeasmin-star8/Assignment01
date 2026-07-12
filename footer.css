@@ -22,3 +22,25 @@
 .links a:hover{
     color: #2563eb; /* Optional: blue on hover */
 }
+.icon{
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+.footer-logo{
+    flex:1;
+    display: flex;
+    align-items: center;
+}
+
+
+.social-links {
+    display: flex;
+    gap: 20px;
+}
+.in-between{
+    width: 100%;
+    border: 0;
+    margin: 20px 0;
+    border-top:1px solid #334155;
+}
