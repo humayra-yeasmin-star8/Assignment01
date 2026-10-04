@@ -27,7 +27,7 @@ Since this is a static HTML project, no package installation is required.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_LINK
+git clone https://github.com/humayra-yeasmin-star8/Assignment01.git
 ```
 
 ### 2. Navigate to the project
